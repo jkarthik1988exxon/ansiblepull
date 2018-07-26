@@ -5,3 +5,6 @@
       file:
         path: /home/rps/pull.txt
         state: touch
+      user:
+        name: demouser
+        state: present
